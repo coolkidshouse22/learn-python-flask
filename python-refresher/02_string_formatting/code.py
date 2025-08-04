@@ -1,10 +1,8 @@
 name = "Bob"
 greeting = "Hello, Bob"
-
 print(greeting)
 
 name = "Rolf"
-
 print(greeting)
 
 greeting = f"Hello, {name}"
